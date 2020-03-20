@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Layer</string>
+    <string name="alertdialog">AlertDialog</string>
+    <string name="popup_window">popup_window</string>
+    <string name="progressdialog">progressDialog</string>
+    <string name="custom_alert_dialog">custom_alert_dialog</string>
+    <string name="pop_1">pop_1</string>
+    <string name="pop_2">pop_2</string>
+    <string name="pop_3">pop_3</string>
+    <string name="pop_4">pop+4</string>
+    <string name="pop_5">pop_5</string>
+</resources>
